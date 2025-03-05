@@ -23,3 +23,4 @@ Local and somewhat related:
   > What topics will be covered is up to you!
   >
   > On the day of the event, the program will be created collaboratively on-site. All attendees can contribute to up to 7 parallel sessions. If you would like to give talks, workshops, discussions or presentations, you can prepare something in advance or spontaneously suggest a topic. Be sure to be on time to secure a spot on the schedule! You can then simply choose the sessions you want to attend.
+- [events.graz.social](https://events.graz.social/), a general register of local events with strong ties to the [Fediverse](https://en.wikipedia.org/wiki/Fediverse).

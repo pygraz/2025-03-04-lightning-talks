@@ -8,6 +8,8 @@ Projects using [poetry](https://python-poetry.org/) or classic `requirements.txt
 
 Uv is the current "new hotness" in the never-ending stream of semi-working packaging solutions for Python projects. It is more performant thanks to an implementation in [rust](https://www.rust-lang.org/), enables to run Python tools without manually setting up a virual environment using `uvx`, honors the `pyproject.toml`, and optionally can install a Python interpreter all by itself.
 
+Uv also checks the `license` classifier. So for example "BSD" will be rejected, and you have to replace it with a more specific [SPDX license identifier](https://spdx.org/licenses/) such as "BSD-3-Clause".
+
 ## Python related and local events
 
 Python:
